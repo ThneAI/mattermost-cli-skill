@@ -1,0 +1,24 @@
+{
+  "name": "mattermost-cli",
+  "version": "1.0.0",
+  "description": "Mattermost CLI skill for fetching and reading Mattermost messages",
+  "author": "Thne <thne@cgas.local>",
+  "license": "MIT",
+  "keywords": [
+    "mattermost",
+    "cli",
+    "skill",
+    "clawdbot",
+    "openclaw"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThneAI/mattermost-cli-skill.git"
+  },
+  "files": [
+    "SKILL.md",
+    "scripts/",
+    "references/",
+    "assets/"
+  ]
+}
